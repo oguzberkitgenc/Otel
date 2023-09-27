@@ -54,5 +54,10 @@ namespace Otel.Formlar.Tanımlamalar
             }
 
         }
+
+        private void vazgeçToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

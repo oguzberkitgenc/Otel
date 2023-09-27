@@ -103,6 +103,7 @@
             this.vazgeçToolStripMenuItem.Name = "vazgeçToolStripMenuItem";
             this.vazgeçToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.vazgeçToolStripMenuItem.Text = "Vazgeç";
+            this.vazgeçToolStripMenuItem.Click += new System.EventHandler(this.vazgeçToolStripMenuItem_Click);
             // 
             // FrmDurum
             // 
