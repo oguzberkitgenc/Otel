@@ -6,7 +6,7 @@
     <edmx:Diagrams>
       <Diagram DiagramId="941dd40484994612adbace0185d8d339" Name="Diagram1">
         <EntityTypeShape EntityType="DbOtelModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="DbOtelModel.TBLBIRIM" Width="1.5" PointX="3" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbOtelModel.TBLBIRIM" Width="1.5" PointX="5" PointY="4" IsExpanded="true" />
         <EntityTypeShape EntityType="DbOtelModel.TBLDEPARTMAN" Width="1.5" PointX="3" PointY="6.375" IsExpanded="true" />
         <EntityTypeShape EntityType="DbOtelModel.TBLDURUM" Width="1.5" PointX="0.75" PointY="14" IsExpanded="true" />
         <EntityTypeShape EntityType="DbOtelModel.TBLGOREV" Width="1.5" PointX="5.25" PointY="10.75" IsExpanded="true" />
